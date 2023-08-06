@@ -4,9 +4,8 @@ I'm Elizabeth and I'm a self-taught Data Analyst. Here are my projects!
 
 SQL: 
 * <a href="https://github.com/etutino/SQL-Murder-Mystery-Solution">SQL Murder Mystery Solution</a>
-* <a href="https://github.com/etutino/NYC-Bike-Trips-Trees">NYC Bike Trips & Trees</a>
 
-Tableau:
+SQL & Tableau:
 * <a href="https://github.com/etutino/NYC-Bike-Trips-Trees">NYC Bike Trips & Trees</a>
 
 Python: 
