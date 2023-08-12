@@ -7,6 +7,7 @@ SQL:
 
 SQL & Tableau:
 * <a href="https://github.com/etutino/NYC-Bike-Trips-Trees">NYC Bike Trips & Trees</a>
+* <a href="https://github.com/etutino/us_ev_chargers">US EV Chargers</a>
 
 Python: 
 * <a href="https://github.com/etutino/MLB-Hits-Runs-Wins">MLB Wins Analysis and Visualization</a>
