@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Elizabeth
 
-I'm Elizabeth and I'm a self-taught Data Analyst. Here are my projects!
+Here are my projects!
 
 SQL: 
 * <a href="https://github.com/etutino/SQL-Murder-Mystery-Solution">SQL Murder Mystery Solution</a>
@@ -14,6 +14,9 @@ Python:
 * <a href="https://github.com/etutino/electricity-ghg-calculator">Calculating Electricity GHG Emissions</a>
 * <a href="https://github.com/etutino/freecodecamp-python-projects">freeCodeCamp Python projects</a>
 * <a href="https://github.com/etutino/titanic-openhpi-bootcamp">Titanic Dataset - EDA and ML</a>
+
+HTML/CSS:
+* 
 
 <!--
 **etutino/etutino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
